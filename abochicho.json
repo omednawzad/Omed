@@ -1,0 +1,23 @@
+{
+  "name": "Omed Private Theme",
+  "version": "1.0.0",
+  "description": "Custom private theme for Omed with background image",
+  "authors": [
+    {
+      "name": "Omed",
+      "id": "000000000000000000"
+    }
+  ],
+  "background": {
+    "url": "https://i.imgur.com/FbS1dWY.jpg",
+    "blur": 2,
+    "alpha": 0.6
+  },
+  "theme_color_map": {
+    "BACKGROUND_PRIMARY": ["#1B1B2F", "#1B1B2F"],
+    "BACKGROUND_SECONDARY": ["#29293D", "#29293D"]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#FFFFFF"
+  }
+}
